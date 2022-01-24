@@ -22,10 +22,13 @@ Platform: Linux </br>
 ### Instructions
  + git clone https://github.com/th3-jes7er/Black-Lotus
  + cd Black-Lotus
- + sudo python3 install.py
+ + sudo python3 install.py </br>
 This script will do nessesary updates and install required tools and packages for the man file
 I suggest you have kali or parrot os for the packages to install via apt-get command (If not, then 
 *some linux distros dont support 'apt-get install nmap' for example*
 ### Credentials
 + Username: black
 + Password: black
+
+### Launcher
+After you create your .desktop file in the installation process you can 
