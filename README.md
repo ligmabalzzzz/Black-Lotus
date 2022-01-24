@@ -31,4 +31,5 @@ I suggest you have kali or parrot os for the packages to install via apt-get com
 + Password: black
 
 ### Launcher
-After you create your .desktop file in the installation process you can 
+After you create your .desktop file in the installation process you can move and modify it for your needs, </br>
+but i will have a .desktop file so you can modify it manually.
