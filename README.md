@@ -33,3 +33,7 @@ I suggest you have kali or parrot os for the packages to install via apt-get com
 ### Launcher
 After you create your .desktop file in the installation process you can move and modify it for your needs, </br>
 but i will have a .desktop file so you can modify it manually.
+
+### Screenshot
+![Screenshot at 2022-01-24 21-56-36](https://user-images.githubusercontent.com/86844971/150855144-705cf0ab-8318-4b38-b1aa-f6abb3d84928.png)
+creenshot
