@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Black Lotus
+Comment=Black Hat Hacker Toolkit
+Exec=sudo -k -u root /home/king/Documents/Black-Lotus/blacklotus.py
+Icon=/home/king/Documents/Black-Lotus/blacklotus2.jpg
+Terminal=true
+Type=Application
+Categories=Utility;Application;
+Path=
+StartupNotify=false
