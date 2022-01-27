@@ -1,3 +1,5 @@
+#Credits to  the official developer https://github.com/th3-jes7er
+
 
 # Black Lotus Toolkit
 Black Hat Hacker Toolkit | 72 semi-custom tools </br>
